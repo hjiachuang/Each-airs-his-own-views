@@ -1,2 +1,2 @@
-# Each-airs-his-own-views
+# 只是给博客添加一个可以问问题的地方
 各抒己见
